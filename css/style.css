@@ -1,0 +1,129 @@
+main {
+    width: 465px;
+}
+
+#name {
+    text-align: center;
+    font-size: 5rem;
+    margin-top: 38px;
+}
+
+#read {
+    text-align: center;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+    font-family: monospace;
+}
+
+#finger {
+    width: 300px;
+    height: 250px;
+    border-spacing: 0px;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 65px;
+}
+
+#finger td {
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+}
+
+[id^=circle], [id^=x] {
+    font-size: 2rem;
+    font-weight: bold;
+    position: absolute;
+    display: none;
+    top: 200px;
+}
+
+#circle-1, #x-1 {
+    left: 375px;
+}
+
+#circle-2, #x-2 {
+    left: 315px;
+}
+
+#circle-3, #x-3 {
+    left: 255px;
+}
+
+#circle-4, #x-4 {
+    left: 195px;
+}
+
+#circle-5, #x-5 {
+    left: 135px;
+}
+
+#circle-6, #x-6 {
+    left: 75px;
+}
+
+div[class^=finger] {
+    font-size: 2.5rem;
+    font-weight: bold;
+    position: absolute;
+    background: black;
+    border-radius: 100px;
+    width: 55px;
+    height: 55px;
+    color: white;
+    text-align: center;
+    display: none;
+}
+
+div[class^=str], div[class^=fret] {
+    position: absolute;
+}
+
+div.str-1 {
+    left: calc(375px - 10px);
+}
+
+div.str-2 {
+    left: calc(315px - 10px);
+}
+
+div.str-3 {
+    left: calc(255px - 10px);
+}
+
+div.str-4 {
+    left: calc(195px - 10px);
+}
+
+div.str-5 {
+    left: calc(135px - 10px);
+}
+
+div.str-6 {
+    left: calc(75px - 10px);
+}
+
+div.fret-1 {
+    top: 265px;
+}
+
+div.fret-2 {
+    top: 350px;
+}
+
+div.fret-3 {
+    top: 435px;
+}
+
+#card {
+    height: 520px;
+    width: 420px;
+    background: #eee;
+    border-radius: 10px;
+    z-index: -1;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border: 1px solid #ccc;
+}

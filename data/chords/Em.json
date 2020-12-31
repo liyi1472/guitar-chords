@@ -1,0 +1,23 @@
+{
+    "name": "Em",
+    "read": "Em和弦/小三和弦",
+    "circles": [
+        1,
+        2,
+        3,
+        6
+    ],
+    "xes": [],
+    "fingers": [
+        {
+            "index": 2,
+            "str": 5,
+            "fret": 2
+        },
+        {
+            "index": 3,
+            "str": 4,
+            "fret": 2
+        }
+    ]
+}

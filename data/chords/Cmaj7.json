@@ -1,0 +1,24 @@
+{
+    "name": "Cmaj7",
+    "read": "C大7和弦",
+    "circles": [
+        1,
+        2,
+        3
+    ],
+    "xes": [
+        6
+    ],
+    "fingers": [
+        {
+            "index": 2,
+            "str": 4,
+            "fret": 2
+        },
+        {
+            "index": 3,
+            "str": 5,
+            "fret": 3
+        }
+    ]
+}

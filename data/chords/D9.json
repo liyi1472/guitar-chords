@@ -1,0 +1,24 @@
+{
+    "name": "D9",
+    "read": "D9和弦/D挂2(Dsus2)和弦",
+    "circles": [
+        1,
+        4
+    ],
+    "xes": [
+        5,
+        6
+    ],
+    "fingers": [
+        {
+            "index": 2,
+            "str": 3,
+            "fret": 2
+        },
+        {
+            "index": 4,
+            "str": 2,
+            "fret": 3
+        }
+    ]
+}
