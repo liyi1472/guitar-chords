@@ -1,0 +1,28 @@
+{
+    "name": "Fmaj7",
+    "read": "F大7和弦",
+    "circles": [
+        1
+    ],
+    "xes": [
+        5,
+        6
+    ],
+    "fingers": [
+        {
+            "index": 1,
+            "str": 2,
+            "fret": 1
+        },
+        {
+            "index": 2,
+            "str": 3,
+            "fret": 2
+        },
+        {
+            "index": 3,
+            "str": 4,
+            "fret": 3
+        }
+    ]
+}
