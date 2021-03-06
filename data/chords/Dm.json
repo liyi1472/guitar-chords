@@ -1,28 +1,28 @@
 {
-    "name": "Am",
-    "read": "Am和弦/小三和弦",
+    "name": "Dm",
+    "read": "Dm和弦/小三和弦",
     "circles": [
-        1,
-        5
+        4
     ],
     "xes": [
-    	6
+    	5,
+        6
     ],
     "fingers": [
         {
             "index": 1,
-            "str": 2,
+            "str": 1,
             "fret": 1
         },
         {
             "index": 2,
-            "str": 4,
+            "str": 3,
             "fret": 2
         },
         {
-            "index": 3,
-            "str": 3,
-            "fret": 2
+            "index": 4,
+            "str": 2,
+            "fret": 3
         }
     ]
 }

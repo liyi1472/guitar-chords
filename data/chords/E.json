@@ -1,27 +1,26 @@
 {
-    "name": "Am",
-    "read": "Am和弦/小三和弦",
+    "name": "E",
+    "read": "E和弦",
     "circles": [
         1,
-        5
+        2,
+        6
     ],
-    "xes": [
-    	6
-    ],
+    "xes": [],
     "fingers": [
         {
             "index": 1,
-            "str": 2,
+            "str": 3,
             "fret": 1
         },
         {
             "index": 2,
-            "str": 4,
+            "str": 5,
             "fret": 2
         },
         {
             "index": 3,
-            "str": 3,
+            "str": 4,
             "fret": 2
         }
     ]

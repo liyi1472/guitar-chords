@@ -41,6 +41,12 @@
 
 - 第8课 三个和弦
 
+  <div style="text-align:inline;">
+      <img src="images/chords/Cmaj7.png" style="zoom:25%;" />
+      <img src="images/chords/D9.png" style="zoom:25%;" />
+      <img src="images/chords/Em.png" style="zoom:25%;" />
+  </div>
+
   > C大7，D9/D挂2，Em/小三。
   >
   > 和弦图相当于把吉他对面立起来看弦和品。
@@ -56,6 +62,10 @@
   > D9的2弦用小指按。
 
 - 第10课 画心弹唱教学
+
+  <div style="text-align:inline;">
+      <img src="images/chords/G.png" style="zoom:25%;" />
+  </div> 
 
   > 调门：看不 = 四弦空弦，穿 = C大7四弦。
   >
@@ -159,5 +169,41 @@
 
 - 第13课 Am和弦与扫弦
 
-  ……
+  <div style="text-align:inline;">
+      <img src="images/chords/Am.png" style="zoom:25%;" />
+  </div> 
+  
+  > Am/小三。
+  >
+  > 往下扫。食指侧面。擦过琴弦。
+  >
+  > - 不可吃弦（进弦容易断弦）。
+  >
+  > - 力度适中（大力不出奇迹）。
+  >
+  > - 六根弦不可同时扫，同时扫会乱弦（音区层次不分明）。
+  >
+  >   往下扫一般扫四根弦（从四弦或五弦），不过没有必要瞄准。
+  >
+  > - 手腕放松。不要僵硬。手腕发力，小臂配合，不要有刻意行为。
+  >
+  > - 手是否落到面板随意。
+  >
+  > - 建议手指捏在一起（比心），否则不太容易控制。
+  
+- 第14课 难道弹唱教学
 
+  <div style="text-align:inline;">
+      <img src="images/chords/Dm.png" style="zoom:25%;" />
+      <img src="images/chords/E.png" style="zoom:25%;" />
+  </div> 
+  
+  > 一节四拍，每个和弦弹四下。
+  >
+  > **强、弱、次强、弱**。融入感情，体会意境。
+  >
+  > 此曲反拍，扫完再唱。
+  
+- 第15课 八六拍节奏
+
+  ……
